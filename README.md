@@ -1,8 +1,6 @@
-### Hi there 👋
-
+![StevePlayzz's github stats](https://github-readme-stats.vercel.app/api?username=StevePlayzz&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![](https://images-ext-1.discordapp.net/external/rBiDKErb8RsBP4RXkl2bw-teFWrMvv5vrObSW9hSm3E/https/media.discordapp.net/attachments/477596941757317121/811995113416032286/ratkid.gif?width=200&height=200)
 <!--
-**StevePlayzz/StevePlayzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
